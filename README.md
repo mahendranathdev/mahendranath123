@@ -44,6 +44,7 @@
   <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"/>
+<img src="https://seeklogo.com/vector-logo/467003/sonarqube" alt="Sonarqube" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="argo" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="centos" width="40" height="40"/>
