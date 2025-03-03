@@ -72,11 +72,22 @@
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
+## 📊 My GitHub Stats
+
+<div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahendranath123&layout=compact&theme=radical" alt="Top Languages" width="49%"/>
-</p>
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mahendranath123&show_icons=true&theme=dark" alt="GitHub Stats" />
+
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahendranath123&layout=compact&theme=dark" alt="Top Languages" />
+
+  <!-- GitHub Streak Stats Card (using Vercel endpoint for improved reliability) -->
+  <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=mahendranath123&theme=dark&exclude_days=Sun%2CMon" alt="GitHub Streak" /></a>
+
+</div>
+
+
 
 ---
 
